@@ -1,6 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "JSConfAM",
+    "short_name": "jsconf.am",
+    "description": "JSConf Armenia",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
